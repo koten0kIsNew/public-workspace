@@ -1,0 +1,7 @@
+name: KotenokEnderChest
+version: 1.0
+api-version: 1.21
+main: ru.kotenokdev.kenderchest.KotenokEnderChest
+author: "KotenokDev"
+depend: ["PlayerPoints"]
+loadafter: ["PlayerPoints"]

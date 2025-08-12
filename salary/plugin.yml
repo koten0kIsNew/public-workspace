@@ -1,0 +1,7 @@
+name: Salary
+version: 1.0
+api-version: 1.12
+main: ru.rushcraft.legacy.salary.Salary
+commands:
+    salary: {}
+    payrub: {}

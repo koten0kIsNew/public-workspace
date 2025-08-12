@@ -1,0 +1,11 @@
+name: Clans
+version: 1.0
+api-version: 1.12
+main: ru.rushcraft.legacy.clans.Clans
+depend: [ "Vault", "PlaceholderAPI" ]
+commands:
+    clan:
+        aliases: [ "clans", "c" ]
+    ".":
+        aliases: []
+    help:
